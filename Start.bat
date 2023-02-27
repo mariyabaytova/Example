@@ -1,1 +1,1 @@
-java -Jira.jar
+C:\Users\Mariya\IdeaProjects\HW55
