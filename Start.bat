@@ -1,1 +1,1 @@
-java -Jira.jar
+java -Jira_jar.jar
